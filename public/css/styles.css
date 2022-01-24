@@ -44,7 +44,8 @@ section{
     border: 0.2rem solid var(--orange);
     cursor: pointer;
     font-size: 1.7rem;
-    
+    font-family: 'Nunito', sans-serif;
+    border-radius: 5px;
 }
 
 
@@ -58,6 +59,8 @@ section{
     color: var(--orange);
     border-radius: 0.5rem;
     padding: 0.2rem 1rem;
+        font-family: 'Kaushan Script', cursive;
+
 }
 .heading span.space{
     background: none;
