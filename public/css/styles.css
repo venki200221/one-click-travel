@@ -652,6 +652,6 @@ flex: 1 1 25rem;
 .brand .box-container .box:hover{
     transform: rotateX(35deg);
     transform: rotateY(30deg);
-    
+    cursor:pointer;
 
 }
